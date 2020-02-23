@@ -1,7 +1,7 @@
 {
-  "name": "jest",
+  "name": "firsttest",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is my first jest practice",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +16,16 @@
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
-    "babel-jest": "^25.1.0"
-  }
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnny32id/firstJest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Johnny32id/firstJest/issues"
+  },
+  "homepage": "https://github.com/Johnny32id/firstJest#readme"
 }
